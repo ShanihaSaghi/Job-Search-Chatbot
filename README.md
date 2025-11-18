@@ -1,7 +1,7 @@
 Job Search Chatbot — Flask, Python, HTML/CSS/JS, CSV Data
 
-        A simple job-recommendation chatbot built using Flask, Python, and a curated CSV dataset.
-        Users can search for jobs by entering role, location, or company name, and the bot returns matching results from the dataset.
+A simple job-recommendation chatbot built using Flask, Python, and a curated CSV dataset.
+Users can search for jobs by entering role, location, or company name, and the bot returns matching results from the dataset.
 
 Features:
 
