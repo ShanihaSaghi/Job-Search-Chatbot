@@ -1,0 +1,11 @@
+Role,Skills,Description,Company,Location
+Software Engineer,"Java, Spring Boot, REST APIs, SQL",Build and maintain backend services with scalable microservices and relational databases.,Infosys,Bangalore
+Frontend Developer,"React, TypeScript, HTML, CSS",Develop responsive web interfaces and collaborate with designers for pixel-perfect UI.,Capestart,Nagercoil
+Data Engineer,"Python, Spark, Databricks, SQL, ETL","Design data pipelines, optimize ETL jobs, and enable analytics-ready data models.",TCS,Trivandrum
+DevOps Engineer,"AWS, Docker, Kubernetes, CI/CD","Automate deployments, manage cloud infrastructure, and monitor reliability and performance.",HCLTech,Chennai
+Cloud Architect,"Azure, Terraform, Networking, Security","Design secure cloud architectures, cost optimization, and migration strategies.",Tech Mahindra,Hyderabad
+QA Automation Engineer,"Selenium, Playwright, JavaScript, API Testing","Create automated test suites, ensure coverage, and integrate tests into CI pipelines.",Cognizant,Coimbatore
+Backend Developer,"Node.js, Express, MongoDB, Redis","Implement RESTful services, caching strategies, and performance tuning for APIs.",Accenture,Kochi
+Security Analyst,"SIEM, SOC, Incident Response, Threat Hunting","Monitor security events, triage incidents, and recommend remediation actions.",IBM,Bengalore
+Full Stack Developer,"Angular, .NET, C#, SQL Server","Build end-to-end web applications across UI, APIs, and database layers.",Microsoft,Hyderabad
+Data Scientist,"Python, Pandas, Scikit-learn, ML Ops","Develop predictive models, evaluate performance, and productionize ML pipelines.",Amazon,Hyderabad
